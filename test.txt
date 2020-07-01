@@ -1,0 +1,4 @@
+page001,Marketa Blazkova,like,užitečné
+page002,Petr Novak,dislike,moc dlouhé
+page003,Blanka Dankova,like,objevné
+page001,Petr Novak,like,objevné
